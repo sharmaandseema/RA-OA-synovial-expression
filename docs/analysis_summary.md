@@ -1,3 +1,5 @@
+# RA versus OA synovial gene expression reanalysis
+
 ## Original study and project scope
 
 This project is an exploratory reanalysis of GSE55235,
