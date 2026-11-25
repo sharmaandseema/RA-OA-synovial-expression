@@ -1,14 +1,27 @@
-# RA versus OA synovial gene-expression analysis
+## Original study and project scope
 
-Report generated: 2026-11-25
+This project is an exploratory reanalysis of GSE55235,
+originally published by Woetzel et al. (2014).
+
+The original study used MAS5 preprocessing and rule-based
+classifiers across multiple centres. This project applies
+RMA preprocessing, limma differential expression and GO
+enrichment to the Berlin cohort.
+
+Original publication:
+Woetzel D, Huber R, Kupfer P, et al.
+Identification of rheumatoid arthritis and osteoarthritis
+patients by transcriptome-based rule set generation.
+Arthritis Research & Therapy. 2014;16:R84.
+https://doi.org/10.1186/ar4526
 
 ## Study and comparison
 
-Dataset: GSE55235, platform GPL96 (Affymetrix HG-U133A). The dataset contains 10 Healthy, 10 OA and 10 RA samples. The primary comparison uses the 10 RA and 10 OA samples as independent groups.
+Dataset: GSE55235, platform GPL96 (Affymetrix HG-U133A). The dataset contains 10 Healthy, 10 OA, and 10 RA samples. The primary comparison uses the 10 RA and 10 OA samples as independent groups.
 
 ## Analysis methods
 
-Expression was normalized using RMA. PCA was used for exploratory sample assessment. Limma fitted a group-only model with the RA-minus-OA contrast to RMA log2 expression. Positive log2 fold changes indicate higher expression in RA. Benjamini-Hochberg adjustment was applied across tested probes.
+Expression was normalized using RMA. We used PCA for exploratory sample assessment. Limma fitted a group-only model with the RA-minus-OA contrast to RMA log2 expression. Positive log2 fold changes indicate higher expression in RA. We applied Benjamini-Hochberg adjustment across tested probes.
 
 Probe annotations were obtained from hgu133a.db. The enrichment analysis retained probes mapping to one Entrez gene. One representative probe per gene was selected by highest average expression across the RA and OA samples, independently of statistical significance. Selection then required the original probe-level FDR < 0.05 and absolute log2 fold change >= 1.
 
