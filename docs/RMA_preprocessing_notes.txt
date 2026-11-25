@@ -1,0 +1,7 @@
+Input: 30 original GSE55235 CEL files.
+Method: affy::rma with default settings.
+All 30 arrays were processed together.
+Steps: background correction, quantile normalization,
+and median-polish probe-set summarization.
+Output expression values are on the log2 scale.
+Primary planned comparison: RA versus OA.

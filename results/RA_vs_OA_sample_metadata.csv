@@ -1,0 +1,21 @@
+"sample_id","sample_id","title","source_disease_description","condition","primary_comparison"
+"GSM1332211","GSM1332211","Synovial tissue from osteoarthritic joint 1  (OA_1)","osteoarthritis","OA",TRUE
+"GSM1332212","GSM1332212","Synovial tissue from osteoarthritic joint 2  (OA_2)","synovial tissue isolated from osteoarthritic joint","OA",TRUE
+"GSM1332213","GSM1332213","Synovial tissue from osteoarthritic joint 3  (OA_3)","synovial tissue isolated from osteoarthritic joint","OA",TRUE
+"GSM1332214","GSM1332214","Synovial tissue from osteoarthritic joint 4  (OA_4)","synovial tissue isolated from osteoarthritic joint","OA",TRUE
+"GSM1332215","GSM1332215","Synovial tissue from osteoarthritic joint 5  (OA_5)","synovial tissue isolated from osteoarthritic joint","OA",TRUE
+"GSM1332216","GSM1332216","Synovial tissue from osteoarthritic joint 6  (OA_6)","synovial tissue isolated from osteoarthritic joint","OA",TRUE
+"GSM1332217","GSM1332217","Synovial tissue from osteoarthritic joint 7  (OA_7)","synovial tissue isolated from osteoarthritic joint","OA",TRUE
+"GSM1332218","GSM1332218","Synovial tissue from osteoarthritic joint 8  (OA_8)","synovial tissue isolated from osteoarthritic joint","OA",TRUE
+"GSM1332219","GSM1332219","Synovial tissue from osteoarthritic joint 9  (OA_9)","synovial tissue isolated from osteoarthritic joint","OA",TRUE
+"GSM1332220","GSM1332220","Synovial tissue from osteoarthritic joint 10  (OA_10)","synovial tissue isolated from osteoarthritic joint","OA",TRUE
+"GSM1332221","GSM1332221","Synovial tissue from rheumatoid arthritis joint 1  (RA_1)","rheumatoid arthritis","RA",TRUE
+"GSM1332222","GSM1332222","Synovial tissue from rheumatoid arthritis joint 2  (RA_2)","rheumatoid arthritis","RA",TRUE
+"GSM1332223","GSM1332223","Synovial tissue from rheumatoid arthritis joint 3  (RA_3)","rheumatoid arthritis","RA",TRUE
+"GSM1332224","GSM1332224","Synovial tissue from rheumatoid arthritis joint 4  (RA_4)","rheumatoid arthritis","RA",TRUE
+"GSM1332225","GSM1332225","Synovial tissue from rheumatoid arthritis joint 5  (RA_5)","rheumatoid arthritis","RA",TRUE
+"GSM1332226","GSM1332226","Synovial tissue from rheumatoid arthritis joint 6  (RA_6)","rheumatoid arthritis","RA",TRUE
+"GSM1332227","GSM1332227","Synovial tissue from rheumatoid arthritis joint 7  (RA_7)","rheumatoid arthritis","RA",TRUE
+"GSM1332228","GSM1332228","Synovial tissue from rheumatoid arthritis joint 8  (RA_8)","rheumatoid arthritis","RA",TRUE
+"GSM1332229","GSM1332229","Synovial tissue from rheumatoid arthritis joint 9  (RA_9)","rheumatoid arthritis","RA",TRUE
+"GSM1332230","GSM1332230","Synovial tissue from rheumatoid arthritis joint 10  (RA_10)","rheumatoid arthritis","RA",TRUE

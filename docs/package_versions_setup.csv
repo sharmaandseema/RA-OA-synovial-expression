@@ -1,0 +1,4 @@
+"package","available","version"
+"GEOquery",TRUE,"2.80.1"
+"Biobase",TRUE,"2.72.0"
+"limma",TRUE,"3.68.5"

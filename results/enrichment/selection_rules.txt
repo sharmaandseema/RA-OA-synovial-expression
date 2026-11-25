@@ -1,0 +1,9 @@
+Analysis: RA versus OA
+Gene identifier: Entrez ID
+Only probes mapping to exactly one Entrez gene retained.
+AFFX control probes excluded.
+Representative probe: highest AveExpr across RA/OA; ties resolved by probe ID.
+Selection: original probe-level BH FDR < 0.05 and |log2FC| >= 1.
+BH-adjusted values were not recalculated after probe selection.
+Background: all eligible genes with a representative probe.
+Higher and lower expression lists prepared separately.
