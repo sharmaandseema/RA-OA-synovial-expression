@@ -1,6 +1,19 @@
-# RA versus OA synovial gene-expression analysis
+## Original study and project scope
 
-Exploratory analysis of GSE55235 using the GPL96 HG-U133A platform.
+This project is an exploratory reanalysis of GSE55235,
+originally published by Woetzel et al. (2014).
+
+The original study used MAS5 preprocessing and rule-based
+classifiers across multiple centres. This project applies
+RMA preprocessing, limma differential expression, and GO
+enrichment to the Berlin cohort.
+
+Original publication:
+Woetzel D, Huber R, Kupfer P, et al.
+Identification of rheumatoid arthritis and osteoarthritis
+patients by transcriptome-based rule set generation.
+Arthritis Research & Therapy. 2014;16:R84.
+https://doi.org/10.1186/ar4526
 
 ## Study design
 
