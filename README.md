@@ -60,8 +60,8 @@ The script list below is an inventory, not an automated execution sequence.
 - [14_heatmap_top_genes.R](scripts/14_heatmap_top_genes.R)
 - [15_prepare_enrichment_inputs.R](scripts/15_prepare_enrichment_inputs.R)
 - [16_go_bp_enrichment.R](scripts/16_go_bp_enrichment.R)
-- [16_go_bp_enrichment.R (1).R](scripts/16_go_bp_enrichment.R (1).R)
-- [17_go_bp_dotplots..R](scripts/17_go_bp_dotplots..R)
+- [16a_fix_enrichment_packages.R](scripts/16a_fix_enrichment_packages.R)
+- [17_go_bp_dotplots.R](scripts/17_go_bp_dotplots.R)-
 - [18_go_term_gene_tables.R](scripts/18_go_term_gene_tables.R)
 - [19_selected_gene_expression.R](scripts/19_selected_gene_expression.R)
 - [20_leave_one_out_sensitivity.R](scripts/20_leave_one_out_sensitivity.R)
